@@ -11,7 +11,7 @@ return array(
 	//模块简介
 	'introduce' => 'WAP手机版',
 	//模块介绍地址
-	'address' => 'http://www.ztbcms.cn',
+	'address' => 'http://doc.ztbcms.com/module/wap/',
 	//模块作者
 	'author' => 'ztbcms',
 	//作者地址
